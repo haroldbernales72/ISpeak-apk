@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928154005961",
+    "project_id": "ispeak-um",
+    "storage_bucket": "ispeak-um.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928154005961:android:7a0784e76c359a412cb818",
+        "android_client_info": {
+          "package_name": "com.example.icepick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzbyov-XibpwYBc-vRsTq4DsciU2G5CaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

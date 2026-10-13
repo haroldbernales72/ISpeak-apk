@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "supabase": "^2.120.0"
+  },
+  "dependencies": {
+    "@panva/jose": "npm:@jsr/panva__jose@^6.2.12"
+  }
+}
